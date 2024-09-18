@@ -1,6 +1,4 @@
 # awesome-material-discovery
-A repository contains a collection of resources and papers on materials discovery
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]([https://github.com/ZhiningLiu1998/awesome-imbalanced-learning](https://github.com/yanliang3612/awesome-mamba)) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
